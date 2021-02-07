@@ -1,6 +1,6 @@
 h1 {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 3em;
+    font-size: 3rem;
     font-weight: bold;
     text-align: center;
 }
@@ -15,10 +15,10 @@ p {
 .container {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    margin: 30px 100px;
+    margin: 5vh 5vw;
     background: black;
     color: white;
-    padding: 30px;
+    padding: 2rem;
 }
 
 .container a {
